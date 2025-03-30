@@ -18,5 +18,6 @@ Datasets Link:-https://github.com/RAJESHKUSHWAH1/E-commerce-Customer-Behavior-Da
 
 - Dashboard Link:- https://github.com/RAJESHKUSHWAH1/E-commerce-Customer-Behavior-Dataset-/blob/main/E%20sales.pbix
 
-- image link:-
+- image link:-![E-Capture](https://github.com/user-attachments/assets/e8cdb52c-2a92-4be2-ae4d-70356c721625)
+
 - 
