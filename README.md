@@ -16,5 +16,7 @@ Datasets Link:-https://github.com/RAJESHKUSHWAH1/E-commerce-Customer-Behavior-Da
 ✅ Mobile devices dominate purchases, but Desktop users contribute the most revenue (134K).
 ✅ Average time spent is consistent across devices, with Tablet users spending slightly more time (30.8 min).
 
-- Dashboard Link:-
+- Dashboard Link:- https://github.com/RAJESHKUSHWAH1/E-commerce-Customer-Behavior-Dataset-/blob/main/E%20sales.pbix
+
+- image link:-
 - 
